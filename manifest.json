@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.1.3",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "app.py",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "app.py": {
+      "checksum": "5a95d490f3b203311888fd31914730b8"
+    },
+    "README.md": {
+      "checksum": "fe4b1b5ea54d14e98c57490748b32d59"
+    },
+    "requirements.txt": {
+      "checksum": "e96959cbb39995eec41ef6bcfd656e03"
+    }
+  },
+  "users": null
+}
